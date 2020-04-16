@@ -2,6 +2,7 @@ const loader = document.querySelector('.loader');
 const main = document.querySelector('.main-content');
 const contact = document.querySelector('#contact');
 
+
 function init() {
     setTimeout(() => {
         loader.style.opacity = 0;

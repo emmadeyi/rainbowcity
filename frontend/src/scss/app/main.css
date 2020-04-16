@@ -188,6 +188,21 @@ footer a:hover {
   border: none !important;
 }
 
+.ans-div {
+  background-color: #2c1111d2;
+  color: #f3f3f3;
+  border-radius: 5px;
+}
+
+.faquest li {
+  cursor: pointer;
+}
+
+.active-quest {
+  background-color: #2c1111d2;
+  color: #f3f3f3;
+}
+
 #purchase {
   padding-top: 20px;
   padding-bottom: 10px;
